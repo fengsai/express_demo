@@ -1,0 +1,10 @@
+module.exports={
+    server_port:8080,
+    mysql_port:3306,
+    mysql_user:'root',
+    mysql_password:'Zll_221300',
+    mysql_dbname:'fengs',
+    mysql_hostname:'localhost',
+    admin_username:'admin',
+    admin_password:'e10adc3949ba59abbe56e057f20f883e'
+}
